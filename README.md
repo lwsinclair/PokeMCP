@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/noor-r-pokemcp-badge.png)](https://mseep.ai/app/noor-r-pokemcp)
+
 # PokeMCP
 PokeMCP: Pokémon Battle Simulation System
 A comprehensive Pokémon data provider and battle simulator built using Python's Model Context Protocol (MCP) framework.
